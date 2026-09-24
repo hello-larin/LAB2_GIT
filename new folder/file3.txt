@@ -1,0 +1,9 @@
+skinparam actor {
+  BackgroundColor #B6E7FF
+  BorderColor #1F6FB2
+}
+skinparam package {
+  BackgroundColor #F7F7F7
+  BorderColor #999999
+}
+
